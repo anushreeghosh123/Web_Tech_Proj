@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 public class HotelReservationSystem {
     private static final String url = "jdbc:mysql://localhost:3306/mysql";
     private static final String username = "root";
-    private static final String password = "Im19@2002#";
+    private static final String password = "user_password";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
